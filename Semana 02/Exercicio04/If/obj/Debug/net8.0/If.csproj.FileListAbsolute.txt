@@ -1,0 +1,15 @@
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/If/bin/Debug/net8.0/If
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/If/bin/Debug/net8.0/If.deps.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/If/bin/Debug/net8.0/If.runtimeconfig.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/If/bin/Debug/net8.0/If.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/If/bin/Debug/net8.0/If.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/If/obj/Debug/net8.0/If.GeneratedMSBuildEditorConfig.editorconfig
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/If/obj/Debug/net8.0/If.AssemblyInfoInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/If/obj/Debug/net8.0/If.AssemblyInfo.cs
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/If/obj/Debug/net8.0/If.csproj.CoreCompileInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/If/obj/Debug/net8.0/If.sourcelink.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/If/obj/Debug/net8.0/If.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/If/obj/Debug/net8.0/refint/If.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/If/obj/Debug/net8.0/If.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/If/obj/Debug/net8.0/If.genruntimeconfig.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/If/obj/Debug/net8.0/ref/If.dll

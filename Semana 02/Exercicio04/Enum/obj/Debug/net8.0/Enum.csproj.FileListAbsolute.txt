@@ -1,0 +1,15 @@
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Enum/bin/Debug/net8.0/Enum
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Enum/bin/Debug/net8.0/Enum.deps.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Enum/bin/Debug/net8.0/Enum.runtimeconfig.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Enum/bin/Debug/net8.0/Enum.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Enum/bin/Debug/net8.0/Enum.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Enum/obj/Debug/net8.0/Enum.GeneratedMSBuildEditorConfig.editorconfig
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Enum/obj/Debug/net8.0/Enum.AssemblyInfoInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Enum/obj/Debug/net8.0/Enum.AssemblyInfo.cs
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Enum/obj/Debug/net8.0/Enum.csproj.CoreCompileInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Enum/obj/Debug/net8.0/Enum.sourcelink.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Enum/obj/Debug/net8.0/Enum.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Enum/obj/Debug/net8.0/refint/Enum.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Enum/obj/Debug/net8.0/Enum.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Enum/obj/Debug/net8.0/Enum.genruntimeconfig.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Enum/obj/Debug/net8.0/ref/Enum.dll

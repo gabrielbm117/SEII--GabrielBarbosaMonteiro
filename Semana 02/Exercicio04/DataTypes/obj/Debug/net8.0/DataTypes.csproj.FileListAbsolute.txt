@@ -1,0 +1,15 @@
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/DataTypes/bin/Debug/net8.0/DataTypes
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/DataTypes/bin/Debug/net8.0/DataTypes.deps.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/DataTypes/bin/Debug/net8.0/DataTypes.runtimeconfig.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/DataTypes/bin/Debug/net8.0/DataTypes.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/DataTypes/bin/Debug/net8.0/DataTypes.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/DataTypes/obj/Debug/net8.0/DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/DataTypes/obj/Debug/net8.0/DataTypes.AssemblyInfoInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/DataTypes/obj/Debug/net8.0/DataTypes.AssemblyInfo.cs
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/DataTypes/obj/Debug/net8.0/DataTypes.csproj.CoreCompileInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/DataTypes/obj/Debug/net8.0/DataTypes.sourcelink.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/DataTypes/obj/Debug/net8.0/DataTypes.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/DataTypes/obj/Debug/net8.0/refint/DataTypes.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/DataTypes/obj/Debug/net8.0/DataTypes.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/DataTypes/obj/Debug/net8.0/DataTypes.genruntimeconfig.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/DataTypes/obj/Debug/net8.0/ref/DataTypes.dll

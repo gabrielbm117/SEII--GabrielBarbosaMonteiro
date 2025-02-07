@@ -1,0 +1,15 @@
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Tuple/bin/Debug/net8.0/Tuple
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Tuple/bin/Debug/net8.0/Tuple.deps.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Tuple/bin/Debug/net8.0/Tuple.runtimeconfig.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Tuple/bin/Debug/net8.0/Tuple.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Tuple/bin/Debug/net8.0/Tuple.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Tuple/obj/Debug/net8.0/Tuple.GeneratedMSBuildEditorConfig.editorconfig
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Tuple/obj/Debug/net8.0/Tuple.AssemblyInfoInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Tuple/obj/Debug/net8.0/Tuple.AssemblyInfo.cs
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Tuple/obj/Debug/net8.0/Tuple.csproj.CoreCompileInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Tuple/obj/Debug/net8.0/Tuple.sourcelink.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Tuple/obj/Debug/net8.0/Tuple.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Tuple/obj/Debug/net8.0/refint/Tuple.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Tuple/obj/Debug/net8.0/Tuple.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Tuple/obj/Debug/net8.0/Tuple.genruntimeconfig.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/Tuple/obj/Debug/net8.0/ref/Tuple.dll

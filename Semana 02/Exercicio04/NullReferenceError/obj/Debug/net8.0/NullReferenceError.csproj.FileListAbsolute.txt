@@ -1,0 +1,15 @@
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/NullReferenceError/bin/Debug/net8.0/NullReferenceError
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/NullReferenceError/bin/Debug/net8.0/NullReferenceError.deps.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/NullReferenceError/bin/Debug/net8.0/NullReferenceError.runtimeconfig.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/NullReferenceError/bin/Debug/net8.0/NullReferenceError.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/NullReferenceError/bin/Debug/net8.0/NullReferenceError.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/NullReferenceError/obj/Debug/net8.0/NullReferenceError.GeneratedMSBuildEditorConfig.editorconfig
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/NullReferenceError/obj/Debug/net8.0/NullReferenceError.AssemblyInfoInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/NullReferenceError/obj/Debug/net8.0/NullReferenceError.AssemblyInfo.cs
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/NullReferenceError/obj/Debug/net8.0/NullReferenceError.csproj.CoreCompileInputs.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/NullReferenceError/obj/Debug/net8.0/NullReferenceError.sourcelink.json
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/NullReferenceError/obj/Debug/net8.0/NullReferenceError.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/NullReferenceError/obj/Debug/net8.0/refint/NullReferenceError.dll
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/NullReferenceError/obj/Debug/net8.0/NullReferenceError.pdb
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/NullReferenceError/obj/Debug/net8.0/NullReferenceError.genruntimeconfig.cache
+/home/ana/SEII-AnaLuizaCoelhoCastelhone/semana 2/Exercicio04/NullReferenceError/obj/Debug/net8.0/ref/NullReferenceError.dll
