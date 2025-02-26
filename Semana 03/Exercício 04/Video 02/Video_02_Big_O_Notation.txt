@@ -1,0 +1,33 @@
+Notação Big O
+
+A notação Big O é uma forma de descrever a eficiência de um algoritmo em termos de tempo de execução ou uso de memória à medida que o tamanho da entrada aumenta. Alguns exemplos comuns são:
+
+- O(1) - Tempo constante ("Constant")
+  O tempo de execução não depende do tamanho da entrada. Exemplos:
+  - Atribuições: var test = 0;
+  - Declarações: var test;
+  - Operações aritméticas: 2 + 2;
+  - Comparações: 2 > 1;
+  - Acesso a elementos: array[1];
+  - Chamadas de função: someFunction();
+
+- O(log N) - Tempo logarítmico
+  O tempo de execução cresce lentamente à medida que N aumenta.
+
+- O(N) - Tempo linear ("Linear")
+  O tempo de execução cresce proporcionalmente ao tamanho da entrada. Normalmente associado a loops.
+  Exemplo:
+  
+  int total = 0;  // O(1)
+  while (i <= 10) {  // O(N)
+      total += i;
+      i++;
+  }
+
+- O(N²) - Tempo quadrático ("Quadratic")
+  O tempo de execução cresce com o quadrado do tamanho da entrada. Isso ocorre geralmente em algoritmos com loops aninhados.
+
+- O(N log N) - Algoritmos eficientes de ordenação
+  Algoritmos como Quick Sort, Merge Sort, Shell Sort e Cube Sort têm essa complexidade, sendo mais eficientes que O(N²) para grandes entradas.
+
+Em resumo, quanto menor a complexidade de um algoritmo, melhor será seu desempenho em grandes entradas de dados.

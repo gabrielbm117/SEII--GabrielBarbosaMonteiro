@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 05\Exercicio IMC\bin\Debug\net8.0\04-ExercicioIMC.exe
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 05\Exercicio IMC\bin\Debug\net8.0\04-ExercicioIMC.deps.json
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 05\Exercicio IMC\bin\Debug\net8.0\04-ExercicioIMC.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 05\Exercicio IMC\bin\Debug\net8.0\04-ExercicioIMC.dll
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 05\Exercicio IMC\bin\Debug\net8.0\04-ExercicioIMC.pdb
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 05\Exercicio IMC\obj\Debug\net8.0\04-ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 05\Exercicio IMC\obj\Debug\net8.0\04-ExercicioIMC.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 05\Exercicio IMC\obj\Debug\net8.0\04-ExercicioIMC.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 05\Exercicio IMC\obj\Debug\net8.0\04-ExercicioIMC.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 05\Exercicio IMC\obj\Debug\net8.0\04-ExercicioIMC.dll
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 05\Exercicio IMC\obj\Debug\net8.0\refint\04-ExercicioIMC.dll
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 05\Exercicio IMC\obj\Debug\net8.0\04-ExercicioIMC.pdb
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 05\Exercicio IMC\obj\Debug\net8.0\04-ExercicioIMC.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 05\Exercicio IMC\obj\Debug\net8.0\ref\04-ExercicioIMC.dll

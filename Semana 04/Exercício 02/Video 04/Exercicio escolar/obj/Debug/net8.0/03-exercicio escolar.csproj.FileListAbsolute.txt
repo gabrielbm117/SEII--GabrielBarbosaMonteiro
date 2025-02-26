@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 04\Exercicio escolar\bin\Debug\net8.0\03-exercicio escolar.exe
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 04\Exercicio escolar\bin\Debug\net8.0\03-exercicio escolar.deps.json
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 04\Exercicio escolar\bin\Debug\net8.0\03-exercicio escolar.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 04\Exercicio escolar\bin\Debug\net8.0\03-exercicio escolar.dll
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 04\Exercicio escolar\bin\Debug\net8.0\03-exercicio escolar.pdb
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 04\Exercicio escolar\obj\Debug\net8.0\03-exercicio escolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 04\Exercicio escolar\obj\Debug\net8.0\03-exercicio escolar.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 04\Exercicio escolar\obj\Debug\net8.0\03-exercicio escolar.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 04\Exercicio escolar\obj\Debug\net8.0\03-exercicio escolar.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 04\Exercicio escolar\obj\Debug\net8.0\03-exercicio escolar.dll
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 04\Exercicio escolar\obj\Debug\net8.0\refint\03-exercicio escolar.dll
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 04\Exercicio escolar\obj\Debug\net8.0\03-exercicio escolar.pdb
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 04\Exercicio escolar\obj\Debug\net8.0\03-exercicio escolar.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Semana 04\Exercício 02\Video 04\Exercicio escolar\obj\Debug\net8.0\ref\03-exercicio escolar.dll
