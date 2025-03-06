@@ -1,0 +1,8 @@
+Qual o limite de bytes a serem enviados por pacotes TCP e UDP?
+R: O limite depende do tamanho do Maximum Transmission Unit (MTU) da rede, que geralmente está em torno de 1500 bytes.
+
+Como um arquivo grande pode ser transmitido via internet?
+R: A transmissão de um arquivo grande envolve sua divisão em partes menores, chamadas de pacotes, que são enviados separadamente e reconstruídos no destino.
+
+Qual a diferença entre as implementações TCP e UDP para esse problema?
+R: O TCP garante que todos os pacotes sejam entregues corretamente e na ordem certa, além de retransmitir os pacotes perdidos. Já o UDP prioriza velocidade, enviando os pacotes sem garantir sua entrega ou ordem correta.
