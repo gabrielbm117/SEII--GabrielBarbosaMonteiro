@@ -1,0 +1,21 @@
+Os Design Patterns, ou padrões de projeto, são soluções reutilizáveis para problemas recorrentes no desenvolvimento de software. Eles funcionam como modelos que orientam a implementação de código mais eficiente, estruturado e de fácil manutenção. Esses padrões estão diretamente ligados à Programação Orientada a Objetos (POO), pois utilizam conceitos fundamentais como encapsulamento, herança e polimorfismo.
+
+A refatoração de código é um processo de aprimoramento da estrutura interna do código sem alterar seu comportamento externo. Durante essa revisão, a aplicação de padrões de design pode tornar o código mais organizado, flexível e sustentável, além de corrigir problemas existentes ou evitar dificuldades futuras. Esses padrões também são úteis desde o início do desenvolvimento, contribuindo para a criação de uma base sólida para o sistema.
+
+A UML (Unified Modeling Language) é uma linguagem de modelagem amplamente utilizada para visualizar, documentar e estruturar sistemas de software. Por meio de diagramas, os desenvolvedores podem representar tanto a arquitetura quanto o comportamento de um sistema, facilitando seu planejamento e entendimento.
+
+Os padrões de design são classificados em três categorias principais:
+
+Criacionais: tratam da maneira como os objetos são criados, proporcionando maior flexibilidade e controle sobre sua instanciação.
+
+Estruturais: lidam com a organização e a relação entre os objetos, tornando a estrutura do software mais eficiente.
+
+Comportamentais: focam na comunicação entre objetos, garantindo um funcionamento mais flexível e escalável do sistema.
+
+No terceiro vídeo analisado, foram apresentados oito padrões de design:
+
+Factory Method (Criacional) – Define uma interface para criação de objetos, permitindo que as subclasses decidam qual tipo de objeto instanciar.
+
+Builder (Criacional) – Facilita a construção de objetos complexos, separando o processo de criação em etapas distintas.
+
+Singleton (Criacional)
